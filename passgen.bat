@@ -1,0 +1,1 @@
+@py.exe C:\Users\Faktora\PythonProjects\PasswordGenerator\passgen.py %*
